@@ -1,3 +1,4 @@
+//Using while loop print K natural numbers given by User.
 #include<stdio.h>
 int main()
 {
