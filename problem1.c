@@ -1,4 +1,4 @@
-// Print N natural numbers given by user.
+// Using for loop Print N natural numbers given by user.
 #include<stdio.h>
 int main()
 {
