@@ -1,3 +1,4 @@
+// Print N natural numbers given by user.
 #include<stdio.h>
 int main()
 {
