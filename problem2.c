@@ -1,5 +1,4 @@
-/*Print Natural numbers from User "K value to 1".
- Using forloop*/
+// Using forloop Print Natural numbers from User "K value to 1"
 #include<stdio.h>
 int main()
 {
